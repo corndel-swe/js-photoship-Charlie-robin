@@ -68,6 +68,6 @@ program
 program
   .command('rotate <filename>')
   .description('RGB to BRG')
-  .action(filename => convertRGB(filename, pixels.rotate))
+  .action(filename => convertRGB(filename, rgb => pixels.rotate(rgb)))
 
 program.parse(process.argv)

@@ -11,5 +11,5 @@
  * @returns {Array} The array in MB
  */
 export function convertFilesizes(arr) {
-  // TODO
+  return arr.map((fileSize) => fileSize / 1000);
 }
