@@ -5,9 +5,13 @@
  *
  * e.g. [4, 1, 9, 5, 2] => 6
  *
- * @param {number[]} nums - An array of numbers.
+ * @param {number[]} numbers - An array of numbers.
  * @returns {number} The sum of the first and last elements.
  */
-export function firstAddLast(nums) {
-  // TODO
+export function firstAddLast(numbers) {
+  if (numbers.length === 0) {
+    return 0
+  }
+
+  return numbers[0] + numbers.at(-1)
 }
