@@ -10,5 +10,5 @@
  * @returns {Array} The array containing only the middle elements
  */
 export function getMiddle(arr) {
-  // TODO
+  return arr.slice(1, arr.length - 1);
 }
