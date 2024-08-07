@@ -6,21 +6,21 @@
 
 ## High priority
 
-- [ ] Complete `lib > pixels > stripGreen()`
+- [x] Complete `lib > pixels > stripGreen()`
 
-- [ ] Complete `lib > pixels > stripBlue()`
+- [x] Complete `lib > pixels > stripBlue()`
 
-- [ ] Complete `lib > pixels > invert()`
+- [x] Complete `lib > pixels > invert()`
 
-- [ ] Complete `lib > pixels > grayScale()`
+- [x] Complete `lib > pixels > grayScale()`
 
-- [ ] Complete `lib > pixels > blackAndWhite()`
+- [x] Complete `lib > pixels > blackAndWhite()`
 
-- [ ] Complete `lib > pixels > colorChannel()`
+- [x] Complete `lib > pixels > colorChannel()`
 
-- [ ] Complete `lib > pixels > sepia()`
+- [x] Complete `lib > pixels > sepia()`
 
-- [ ] Complete `lib > pixels > adjustBrightness()`
+- [x] Complete `lib > pixels > adjustBrightness()`
 
 ## Backlog
 
